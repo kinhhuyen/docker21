@@ -1,3 +1,4 @@
+import com.mycompany.dockertet.User;
 import org.junit.Test;
 import static org.junit.Assert.*;
 

@@ -1,3 +1,5 @@
+package com.mycompany.dockertet;
+
 import java.util.Scanner;
 
 public class User {
